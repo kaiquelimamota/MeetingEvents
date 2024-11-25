@@ -1,0 +1,48 @@
+﻿@page
+@model Microsoft.BotBuilderSamples.Pages.CustomFormModel
+@{
+    ViewData["Title"] = "CustomForm";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<html>
+<head>
+    <style>
+        body {
+            margin: 0;
+            padding-left: 4px;
+            padding-right: 4px;
+        }
+    </style>
+    <title>Microsoft Teams Dialogs (referred as task modules in TeamsJS v1.x) Tester - Custom Form</title>
+</head>
+<body>
+    <script>
+        microsoftTeams.initialize(); 
+        function validateForm() {
+            var customerInfo = {
+                name: document.forms["customerForm"]["name"].value,
+                agencia: document.forms["customerForm"]["agencia"].value,
+                conta: document.forms["customerForm"]["conta"].value,
+                dac: document.forms["customerForm"]["dac"].value
+            }
+            microsoftTeams.dialog.submit(customerInfo, "@Model.MicrosoftAppId");
+            return true;
+        }
+    </script>
+    <div class="surface theme-light">
+        <div class="panel" style="overflow:auto">
+            <div class="font-semibold font-title">Enter new customer information:</div>
+            <form method="POST" id="customerForm" onSubmit="return validateForm()">
+                <div>
+                    <div class="form-group form-field-input" style="margin-bottom: 10px; margin-top: 10px;"></div><label for="name">Name: </label><input class="form-control input-field" id="name" type="text" placeholder="first and last" name="name" tabindex="1" autofocus>
+                    <div class="form-group form-field-input" style="margin-bottom: 10px;"></div><label for="agencia">Agencia: </label><input class="form-control input-field" id="agencia" type="agencia" name="agencia" tabindex="2">
+                    <div class="form-group form-field-input" style="margin-bottom: 10px;"></div><label for="conta">Conta: </label><input class="form-control input-field" id="conta" type="text" name="conta" tabindex="3">
+                    <div class="form-group form-field-input" style="margin-bottom: 10px;"></div><label for="dac">Dac: </label><input class="form-control input-field" id="dac" type="text" name="dac" tabindex="4">
+                    <button class="btn button-primary" type="submit" tabindex="5">Enviar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\_kaique\\teamsAppLab\\meetings-events\\csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE3FB6B-5F07-491F-9669-23B0C1CA4A30}|MeetingEvents\\MeetingEvents.csproj|f:\\_kaique\\teamsapplab\\meetings-events\\csharp\\meetingevents\\bots\\activitybot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE3FB6B-5F07-491F-9669-23B0C1CA4A30}|MeetingEvents\\MeetingEvents.csproj|solutionrelative:meetingevents\\bots\\activitybot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE3FB6B-5F07-491F-9669-23B0C1CA4A30}|MeetingEvents\\MeetingEvents.csproj|f:\\_kaique\\teamsapplab\\meetings-events\\csharp\\meetingevents\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE3FB6B-5F07-491F-9669-23B0C1CA4A30}|MeetingEvents\\MeetingEvents.csproj|solutionrelative:meetingevents\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE3FB6B-5F07-491F-9669-23B0C1CA4A30}|MeetingEvents\\MeetingEvents.csproj|f:\\_kaique\\teamsapplab\\meetings-events\\csharp\\meetingevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE3FB6B-5F07-491F-9669-23B0C1CA4A30}|MeetingEvents\\MeetingEvents.csproj|solutionrelative:meetingevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE3FB6B-5F07-491F-9669-23B0C1CA4A30}|MeetingEvents\\MeetingEvents.csproj|f:\\_kaique\\teamsapplab\\meetings-events\\csharp\\meetingevents\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEE3FB6B-5F07-491F-9669-23B0C1CA4A30}|MeetingEvents\\MeetingEvents.csproj|solutionrelative:meetingevents\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE3FB6B-5F07-491F-9669-23B0C1CA4A30}|MeetingEvents\\MeetingEvents.csproj|f:\\_kaique\\teamsapplab\\meetings-events\\csharp\\meetingevents\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEE3FB6B-5F07-491F-9669-23B0C1CA4A30}|MeetingEvents\\MeetingEvents.csproj|solutionrelative:meetingevents\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE3FB6B-5F07-491F-9669-23B0C1CA4A30}|MeetingEvents\\MeetingEvents.csproj|f:\\_kaique\\teamsapplab\\meetings-events\\csharp\\meetingevents\\meetingevents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEE3FB6B-5F07-491F-9669-23B0C1CA4A30}|MeetingEvents\\MeetingEvents.csproj|solutionrelative:meetingevents\\meetingevents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\_kaique\\teamsAppLab\\meetings-events\\csharp\\MeetingEvents\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MeetingEvents\\appsettings.Development.json",
+              "ToolTip": "F:\\_kaique\\teamsAppLab\\meetings-events\\csharp\\MeetingEvents\\appsettings.Development.json",
+              "RelativeToolTip": "MeetingEvents\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T19:31:53.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\_kaique\\teamsAppLab\\meetings-events\\csharp\\MeetingEvents\\Startup.cs",
+              "RelativeDocumentMoniker": "MeetingEvents\\Startup.cs",
+              "ToolTip": "F:\\_kaique\\teamsAppLab\\meetings-events\\csharp\\MeetingEvents\\Startup.cs",
+              "RelativeToolTip": "MeetingEvents\\Startup.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:23:55.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\_kaique\\teamsAppLab\\meetings-events\\csharp\\MeetingEvents\\Program.cs",
+              "RelativeDocumentMoniker": "MeetingEvents\\Program.cs",
+              "ToolTip": "F:\\_kaique\\teamsAppLab\\meetings-events\\csharp\\MeetingEvents\\Program.cs",
+              "RelativeToolTip": "MeetingEvents\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:23:51.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\_kaique\\teamsAppLab\\meetings-events\\csharp\\MeetingEvents\\appsettings.json",
+              "RelativeDocumentMoniker": "MeetingEvents\\appsettings.json",
+              "ToolTip": "F:\\_kaique\\teamsAppLab\\meetings-events\\csharp\\MeetingEvents\\appsettings.json",
+              "RelativeToolTip": "MeetingEvents\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T17:17:02.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActivityBot.cs",
+              "DocumentMoniker": "F:\\_kaique\\teamsAppLab\\meetings-events\\csharp\\MeetingEvents\\Bots\\ActivityBot.cs",
+              "RelativeDocumentMoniker": "MeetingEvents\\Bots\\ActivityBot.cs",
+              "ToolTip": "F:\\_kaique\\teamsAppLab\\meetings-events\\csharp\\MeetingEvents\\Bots\\ActivityBot.cs",
+              "RelativeToolTip": "MeetingEvents\\Bots\\ActivityBot.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:51:31.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeetingEvents.csproj",
+              "DocumentMoniker": "F:\\_kaique\\teamsAppLab\\meetings-events\\csharp\\MeetingEvents\\MeetingEvents.csproj",
+              "RelativeDocumentMoniker": "MeetingEvents\\MeetingEvents.csproj",
+              "ToolTip": "F:\\_kaique\\teamsAppLab\\meetings-events\\csharp\\MeetingEvents\\MeetingEvents.csproj",
+              "RelativeToolTip": "MeetingEvents\\MeetingEvents.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T16:48:03.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
